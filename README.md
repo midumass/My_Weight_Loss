@@ -30,12 +30,15 @@ Data created personally for personal use. Files available in respository.
 * Rolling weekly average
 * Day of the week
 * Day of the week as numeric factor
-* Volume of water consumed
-** 1 - Less than Half Gallon
-** 2 - Less than Gallon, more than Half Gallon
-** 3 - Around a Gallon
-** 4 - More than a Gallon, less than One and One Half Gallons
-** 5 More than One and One Half Gallons
+* Volume of water consumed [1]
+
+
+[1 - Water Consumed]
+* 1 - Less than Half Gallon
+* 2 - Less than Gallon, more than Half Gallon
+* 3 - Around a Gallon
+* 4 - More than a Gallon, less than One and One Half Gallons
+* 5 More than One and One Half Gallons
 
 
 ## History, for those who care
