@@ -1,4 +1,4 @@
-## My_Weight_Loss
+# My Weight Loss
 Weight Loss Analysis on my Keto Adventure
 
 ## Motivation
