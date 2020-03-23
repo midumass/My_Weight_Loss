@@ -8,10 +8,14 @@ Weight loss sites, doctor's recommendations and science have failed me in weight
 
 ### Methods Used
 * Inferential Statistics
-* Machine Learning
 * Data Visualization
 * Predictive Modeling
-* etc.
+
+### Technologies
+* Python
+* D3
+* Microsoft Excel
+* pandas
 
 ## History, for those who care
 My obesity has begun affecting my ability to live happy and healthy. It has prevented me from enjoying activities with my family like Roller Coasters, sports, and outdoor projects like scouting with my son and rebuilding my old muscle car. On December 10, 2019, my wife asked if I'd like to try the Keto diet with her, and I said sure. After a 10 day bout with the worst keto flu I've ever heard of anyone having and aiming for zero carbs each day, I caved. On December 19th, I ate half an apple and felt amazing. Over the next 10 days I realized I needed at least a few carbs, but have kept my intake under 20g total per day, including fiber. With few cravings and no cheats, I aimed for 75% of my basal metabloic rate's necessary calories, about 1600 per day, and attempted to balance about 65% fat, 35% protein and any discrepancies in the 20g of carbs I had left over. I felt so much better and felt the weight coming off, but I weighed more than my scale could accurately measure so on New Years Eve, December 31, 2019, I gorged on stuffed crust pizza, cheese sticks and garlic knots. This was to be my last meal as a fatty.
