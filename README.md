@@ -1,7 +1,7 @@
 # My Weight Loss
 Weight Loss Analysis on my Keto Adventure
 
-#### -- Project Status: [On-Hold]
+#### -- Project Status: [On-Hold until more data collected]
 
 ## Objective
 Weight loss sites, doctor's recommendations and science have failed me in weight loss. This project aims to find out why. See History, for those who care for the background.
